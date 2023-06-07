@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
-    "dev": "nodemon app.js"  },
+    "dev": "nodemon app.js"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -22,7 +23,8 @@
     "netlify-cli": "^15.3.1",
     "netlify-lambda": "^2.0.16",
     "nodemon": "^2.0.20",
-    "serverless-http": "^3.2.0"
+    "serverless-http": "^3.2.0",
+    "yarn": "^1.22.19"
   },
   "devDependencies": {
     "webpack-cli": "^5.1.3"
