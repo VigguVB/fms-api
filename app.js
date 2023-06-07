@@ -1,5 +1,4 @@
 let express = require('express');
-const serverless = require('serverless-http');
 let app = express();
 const mongo = require('mongodb');
 const MongoClient = mongo.MongoClient;
